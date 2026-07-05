@@ -19,9 +19,9 @@
     <string name="about_summary">Aplikasi firewall yang menggunakan API jaringan internal Android.</string>
     <string name="version">Versi: <xliff:g id="version">%1$s</xliff:g></string>
     <string name="contributors_title">Kontributor</string>
-    <string name="contributors_summary">Silakan lihat GitLab untuk <a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">daftar kontributor</a>.</string>
+    <string name="contributors_summary"></string>
     <string name="contributing_orgs_title">Organisasi Kontributor</string>
-    <string name="contributing_orgs_summary"><a href="https://www.calyxinstitute.org">Calyx Institute</a> untuk digunakan di <a href="https://calyxos.org">CalyxOS</a></string>
+    <string name="contributing_orgs_summary"></string>
     <string name="work_profile_help">Setelan firewall untuk aplikasi kerja dikelola di aplikasi Firewall pada profil pribadi Anda. Aplikasi kerja memiliki ikon koper pada aplikasi tersebut.</string>
     <string name="settings">Setelan</string>
     <string name="pref_default_internet_title">Izinkan internet untuk instalasi baru</string>

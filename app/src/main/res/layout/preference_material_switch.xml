@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  SPDX-FileCopyrightText: 2024 The Calyx Institute
+  SPDX-FileCopyrightText: 2024 Lineage-OS-Special-Project (LOSP)
   SPDX-License-Identifier: Apache-2.0
   -->
 <!-- Derived from https://github.com/androidx/androidx/blob/8cb282cc/preference/preference/res/layout/preference_widget_switch_compat.xml -->

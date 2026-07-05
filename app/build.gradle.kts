@@ -1,5 +1,5 @@
 /*
- * SPDX-FileCopyrightText: 2023 The Calyx Institute
+ * SPDX-FileCopyrightText: 2023 Lineage-OS-Special-Project (LOSP)
  * SPDX-License-Identifier: Apache-2.0
  */
 
@@ -16,11 +16,11 @@ kotlin {
 }
 
 android {
-    namespace = "org.calyxos.datura"
+    namespace = "org.lineageos.datura"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "org.calyxos.datura"
+        applicationId = "org.lineageos.datura"
         minSdk = 33
         targetSdk = 35
         versionCode = 33000001

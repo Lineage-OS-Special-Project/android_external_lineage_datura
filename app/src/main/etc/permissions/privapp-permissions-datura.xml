@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="org.lineageos.datura">
+        <permission name="android.permission.MANAGE_NETWORK_POLICY"/>
+        <permission name="android.permission.NETWORK_STACK"/>
+        <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+        <permission name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+        <permission name="lineageos.permission.WRITE_SECURE_SETTINGS"/>
+    </privapp-permissions>
+</permissions>

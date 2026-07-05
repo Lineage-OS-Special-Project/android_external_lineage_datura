@@ -1,0 +1,14 @@
+android_app_import {
+    name: "Datura",
+    apk: "prebuilt/Datura.apk",
+    certificate: "platform",
+    privileged: true,
+    required: ["privapp-permissions-datura"],
+}
+
+prebuilt_etc {
+    name: "privapp-permissions-datura",
+    src: "app/src/main/etc/permissions/privapp-permissions-datura.xml",
+    sub_dir: "permissions",
+    filename: "privapp-permissions-datura.xml",
+}

@@ -20,8 +20,8 @@
     <string name="contributors_title">Katkıda Bulunanlar</string>
     <string name="contributing_orgs_title">Katkıda Bulunan Kuruluşlar</string>
     <string name="work_profile_help">İş uygulamaları için güvenlik duvarı ayarları kişisel profilinizin Güvenlik Duvarı uygulamasından yönetilir. İş uygulamalarının üzerinde bir evrak çantası simgesi bulunur.</string>
-    <string name="contributors_summary"><a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">Katkıda bulunanların listesi</a> için lütfen GitLab sayfasına bakın.</string>
-    <string name="contributing_orgs_summary"><a href="https://calyxos.org">CalyxOS</a>\'de kullanım için <a href="https://www.calyxinstitute.org">Calyx Enstitüsü</a></string>
+    <string name="contributors_summary"></string>
+    <string name="contributing_orgs_summary"></string>
     <string name="version">Sürüm: <xliff:g id="version">%1$s</xliff:g></string>
     <string name="settings">Ayarlar</string>
     <string name="notification_channel_fgs">Ön plan hizmeti</string>

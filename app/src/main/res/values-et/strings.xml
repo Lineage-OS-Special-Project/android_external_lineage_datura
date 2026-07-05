@@ -33,5 +33,5 @@
     <string name="notifications">Märguanded</string>
     <string name="notifications_desc">Uute rakenduste internetiühenduse märguanded</string>
     <string name="notification_channel_fgs">Esiplaaniteenus</string>
-    <string name="contributors_summary">Gitlabist leiad <a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">kaastööliste nimekirja</a>.</string>
+    <string name="contributors_summary"></string>
 </resources>

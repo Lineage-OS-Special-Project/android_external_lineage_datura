@@ -25,9 +25,9 @@
     <string name="notifications">Notificações</string>
     <string name="default_settings">Definições padrão</string>
     <string name="contributors_title">Colaboradores</string>
-    <string name="contributors_summary">Veja a <a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">lista de colaboradores</a> no GitLab.</string>
+    <string name="contributors_summary"></string>
     <string name="contributing_orgs_title">Organizações Colaboradoras</string>
-    <string name="contributing_orgs_summary"><a href="https://www.calyxinstitute.org">Instituto Calyx</a> para o uso no <a href="https://calyxos.org">CalyxOS</a></string>
+    <string name="contributing_orgs_summary"></string>
     <string name="pref_default_internet_title">Permitir internet para novas apps</string>
     <string name="pref_default_internet_summary">Apps novas poderão usar a internet por padrão</string>
     <string name="notification_channel_fgs">Serviço de primeiro plano</string>
