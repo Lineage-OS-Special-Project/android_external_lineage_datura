@@ -5,14 +5,14 @@ different types of network connections such as Wi-Fi, cellular, VPN, etc.
 
 ## Development
 
-Datura is compatible with the Gradle build system and seamlessly integrates with CalyxOS.
+Datura is compatible with the Gradle build system and seamlessly integrates with LineageOS.
 
 To build in Android Studio, clone this repo to get started. Ensure that the testing device targets
 a supported API level. The `debug` build type is additionally signed with AOSP signing keys (test keys) to
 allow installation over the existing app in the system.
 
 Various patches might be required across the OS to support all the features Datura offers, depending
-upon the use case. Please check [our Gerrit instance](https://review.calyxos.org/) for a complete list of patches.
+upon the use case. Please check [our Gerrit instance](https://review.lineageos.org/) for a complete list of patches.
 
 ## Copyright and License
 

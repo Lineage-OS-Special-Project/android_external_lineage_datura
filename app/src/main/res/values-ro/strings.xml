@@ -16,9 +16,9 @@
     <string name="system_apps">Aplicații de sistem</string>
     <string name="version">Versiune: <xliff:g id="version">%1$s</xliff:g></string>
     <string name="contributors_title">Contribuitori</string>
-    <string name="contributors_summary">Consultă GitLab pentru o <a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">listă de colaboratori</a>.</string>
+    <string name="contributors_summary"></string>
     <string name="contributing_orgs_title">Organizații ce contribuie</string>
-    <string name="contributing_orgs_summary"><a href="https://www.calyxinstitute.org">Calyx Institute</a> pentru utilizare în <a href="https://calyxos.org">CalyxOS</a></string>
+    <string name="contributing_orgs_summary"></string>
     <string name="work_profile_help">Setările de firewall pentru aplicațiile de serviciu sunt gestionate în aplicația Firewall a profilului personal. Aplicațiile de serviciu au o pictogramă de servietă pe ele.</string>
     <string name="app_name">Firewall Datura</string>
     <string name="app_short_name">firewall</string>

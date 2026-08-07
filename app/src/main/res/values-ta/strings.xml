@@ -18,9 +18,9 @@
     <string name="about">பற்றி</string>
     <string name="about_summary">ஆண்ட்ராய்டு இன் உள் பிணையம் பநிஇ ஐப் பயன்படுத்தி ஃபயர்வால் பயன்பாடு.</string>
     <string name="version">பதிப்பு: <xliff:g id="version">%1$s</xliff:g></string>
-    <string name="contributors_summary">தயவுசெய்து ஒரு <a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">பங்களிப்பாளர்களின் பட்டியல் </a>.</string>
+    <string name="contributors_summary"></string>
     <string name="contributing_orgs_title">பங்களிப்பு நிறுவனங்கள்</string>
-    <string name="contributing_orgs_summary"><a href="https://www.calyxinstitute.org">கலிக்ச் இன்ச்டிடியூட்</a> <a href="https://calyxos.org">கலிக்சோச்</a> இல் பயன்படுத்த</string>
+    <string name="contributing_orgs_summary"></string>
     <string name="pref_default_internet_summary">புதிய பயன்பாட்டு நிறுவல்கள் இயல்பாக இணையத்தை அணுக அனுமதிக்கப்படுகின்றன</string>
     <string name="monitoring_new_app_installs_title">புதிய பயன்பாட்டு நிறுவல்களை கண்காணித்தல்</string>
     <string name="work_profile_help">பணி பயன்பாடுகளுக்கான ஃபயர்வால் அமைப்புகள் உங்கள் தனிப்பட்ட சுயவிவரத்தின் ஃபயர்வால் பயன்பாட்டில் நிர்வகிக்கப்படுகின்றன. வேலை பயன்பாடுகள் அவற்றில் ஒரு பிரீஃப்கேச் ஐகானைக் கொண்டுள்ளன.</string>
