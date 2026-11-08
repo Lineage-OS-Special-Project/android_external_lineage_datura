@@ -20,9 +20,9 @@
     <string name="no_internet">Aplikace nežádá o oprávnění k internetu</string>
     <string name="contributors_title">Přispěvatelé</string>
     <string name="work_profile_help">Nastavení firewallu pro pracovní aplikace naleznete v aplikaci Firewall ve vašem osobním profilu. Pracovní aplikace mají u sebe ikonu kufříku.</string>
-    <string name="contributors_summary">Seznam přispěvatelů naleznete <a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">na GitLabu</a>.</string>
+    <string name="contributors_summary"></string>
     <string name="contributing_orgs_title">Přispívající organizace</string>
-    <string name="contributing_orgs_summary"><a href="https://www.calyxinstitute.org">Calyx Institute</a> pro použití v <a href="https://calyxos.org">CalyxOS</a></string>
+    <string name="contributing_orgs_summary"></string>
     <string name="pref_default_internet_title">Povolit internet u nových instalací</string>
     <string name="notification_channel_alert">Upozornění</string>
     <string name="monitoring_new_app_installs_title">Monitorování instalací nových aplikací</string>

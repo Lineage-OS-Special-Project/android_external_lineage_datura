@@ -19,9 +19,9 @@
     <string name="no_internet">Приложение не запрашивает разрешение на доступ к интернету</string>
     <string name="version">Версия: <xliff:g id="version">%1$s</xliff:g></string>
     <string name="contributors_title">Контрибьюторы</string>
-    <string name="contributors_summary">Посмотреть <a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">список участников можно на GitLab</a>.</string>
+    <string name="contributors_summary"></string>
     <string name="contributing_orgs_title">Организации-контрибьюторы</string>
-    <string name="contributing_orgs_summary"><a href="https://www.calyxinstitute.org">Calyx Institute</a> для использования в <a href="https://calyxos.org">CalyxOS</a></string>
+    <string name="contributing_orgs_summary"></string>
     <string name="work_profile_help">Настройки брандмауэра для рабочих приложений управляются в приложении Брандмауэр личного профиля. Рабочие приложения отмечены значком портфеля.</string>
     <string name="settings">Настройки</string>
     <string name="pref_default_internet_title">Разрешать доступ в интернет новым приложениям</string>

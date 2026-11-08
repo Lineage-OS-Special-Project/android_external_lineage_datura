@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  SPDX-FileCopyrightText: 2023 The Calyx Institute
+  SPDX-FileCopyrightText: 2023 Lineage-OS-Special-Project (LOSP)
   SPDX-License-Identifier: Apache-2.0
   -->
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
@@ -11,21 +11,21 @@
 
     <fragment
         android:id="@+id/appListFragment"
-        android:name="org.calyxos.datura.applist.AppListFragment"
+        android:name="org.lineageos.datura.applist.AppListFragment"
         android:label="fragment_app_list"
         tools:layout="@layout/fragment_app_list" />
     <fragment
         android:id="@+id/aboutFragment"
-        android:name="org.calyxos.datura.about.AboutFragment"
+        android:name="org.lineageos.datura.about.AboutFragment"
         android:label="@string/about"
         tools:layout="@layout/fragment_about" />
     <fragment
         android:id="@+id/workFragment"
-        android:name="org.calyxos.datura.work.WorkFragment"
+        android:name="org.lineageos.datura.work.WorkFragment"
         android:label="fragment_work"
         tools:layout="@layout/fragment_work" />
     <fragment
         android:id="@+id/settingsFragment"
-        android:name="org.calyxos.datura.settings.SettingsFragment"
+        android:name="org.lineageos.datura.settings.SettingsFragment"
         android:label="@string/settings" />
 </navigation>

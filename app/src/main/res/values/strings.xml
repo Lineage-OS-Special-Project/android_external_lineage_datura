@@ -1,5 +1,5 @@
 <!--
-  SPDX-FileCopyrightText: 2023 The Calyx Institute
+  SPDX-FileCopyrightText: 2023 Lineage-OS-Special-Project (LOSP)
   SPDX-License-Identifier: Apache-2.0
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
@@ -29,9 +29,9 @@
     <string name="about_summary">A firewall application using Android\'s internal network API.</string>
     <string name="version">Version: <xliff:g id="version">%1$s</xliff:g></string>
     <string name="contributors_title">Contributors</string>
-    <string name="contributors_summary">Please see GitLab for a <a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">list of contributors</a>.</string>
+    <string name="contributors_summary"></string>
     <string name="contributing_orgs_title">Contributing Organizations</string>
-    <string name="contributing_orgs_summary"><a href="https://www.calyxinstitute.org">Calyx Institute</a> for use in <a href="https://calyxos.org">CalyxOS</a></string>
+    <string name="contributing_orgs_summary"></string>
 
     <!-- Work Fragment -->
     <string name="work_profile_help">Firewall settings for work apps are managed in your personal profile’s Firewall app. Work apps have a briefcase icon on them.</string>

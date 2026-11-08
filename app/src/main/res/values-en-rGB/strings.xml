@@ -19,9 +19,9 @@
     <string name="installed_apps">Installed apps</string>
     <string name="version">Version: <xliff:g id="version">%1$s</xliff:g></string>
     <string name="contributors_title">Contributors</string>
-    <string name="contributors_summary">Please see GitLab for a <a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">list of contributors</a>.</string>
+    <string name="contributors_summary"></string>
     <string name="contributing_orgs_title">Contributing Organisations</string>
-    <string name="contributing_orgs_summary"><a href="https://www.calyxinstitute.org">Calyx Institute</a> for use in <a href="https://calyxos.org">CalyxOS</a></string>
+    <string name="contributing_orgs_summary"></string>
     <string name="work_profile_help">Firewall settings for work apps are managed in your personal profile’s Firewall app. Work apps have a briefcase icon on them.</string>
     <string name="settings">Settings</string>
     <string name="pref_default_internet_title">Allow Internet for new installs</string>

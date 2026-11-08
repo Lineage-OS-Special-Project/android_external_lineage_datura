@@ -15,13 +15,13 @@
     <string name="default_settings">Προεπιλεγμένες ρυθμίσεις</string>
     <string name="custom_settings">Προσαρμοσμένες ρυθμίσεις</string>
     <string name="no_internet">Η εφαρμογή δεν ζητά άδεια διαδικτύου</string>
-    <string name="contributors_summary">Παρακαλούμε δείτε το GitLab για μια <a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">λίστα συνεισφερόντων</a>.</string>
+    <string name="contributors_summary"></string>
     <string name="searchbar_hint">Αναζήτηση εφαρμογών</string>
     <string name="app_logo">Λογότυπο εφαρμογής</string>
     <string name="version">Έκδοση: <xliff:g id="version">%1$s</xliff:g></string>
     <string name="contributors_title">Συνεισφέροντες</string>
     <string name="contributing_orgs_title">Συνεισφέροντες Οργανισμοί</string>
-    <string name="contributing_orgs_summary"><a href="https://www.calyxinstitute.org">Calyx Institute</a> για χρήση στο <a href="https://calyxos.org">CalyxOS</a></string>
+    <string name="contributing_orgs_summary"></string>
     <string name="work_profile_help">Η διαχείριση των ρυθμίσεων τείχους προστασίας για τις εφαρμογές εργασίας γίνεται στην εφαρμογή Τείχος προστασίας του προσωπικού προφίλ σας. Οι εφαρμογές εργασίας έχουν ένα εικονίδιο χαρτοφύλακα πάνω τους.</string>
     <string name="notification_channel_alert">Ειδοποιήσεις</string>
     <string name="internet_access_denied_title">Η πρόσβαση στο διαδίκτυο αρνήθηκε!</string>

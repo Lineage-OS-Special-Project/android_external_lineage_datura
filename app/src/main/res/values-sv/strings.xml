@@ -19,9 +19,9 @@
     <string name="no_internet">Appen begär inte internetbehörighet</string>
     <string name="version">Version: <xliff:g id="version">%1$s</xliff:g></string>
     <string name="contributors_title">Medverkande</string>
-    <string name="contributors_summary">Se GitLab för en <a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">lista över medverkande</a>.</string>
+    <string name="contributors_summary"></string>
     <string name="contributing_orgs_title">Medverkande organisationer</string>
-    <string name="contributing_orgs_summary"><a href="https://www.calyxinstitute.org">Calyx Institute</a> för användning i <a href="https://calyxos.org">CalyxOS</a></string>
+    <string name="contributing_orgs_summary"></string>
     <string name="work_profile_help">Brandväggsinställningarna för arbetsappar hanteras i brandväggsappen i din personliga profil. Arbetsappar har en portföljikon.</string>
     <string name="settings">Inställningar</string>
     <string name="pref_default_internet_title">Tillåt internet för nya installationer</string>

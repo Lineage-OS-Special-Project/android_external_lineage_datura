@@ -22,7 +22,7 @@
     <string name="notifications">Obavijesti</string>
     <string name="no_internet">Aplikacija ne traži dozvolu za pristup internetu</string>
     <string name="about">Informacije</string>
-    <string name="contributors_summary">Za <a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">popis suradnika</a> pogledaj GitLab.</string>
+    <string name="contributors_summary"></string>
     <string name="contributing_orgs_title">Suradničke organizacije</string>
     <string name="work_profile_help">Postavkama vatrozida za poslovne aplikacije upravlja se u aplikaciji Vatrozid u tvom osobnom profilu. Poslovne aplikacije imaju ikonu aktovke.</string>
     <string name="pref_default_internet_title">Dozvoli internet za nove instalacije</string>

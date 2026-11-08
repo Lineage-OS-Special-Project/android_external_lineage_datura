@@ -19,10 +19,10 @@
     <string name="version">Versão: <xliff:g id="version">%1$s</xliff:g></string>
     <string name="contributors_title">Colaboradores</string>
     <string name="contributing_orgs_title">Organizações Colaboradoras</string>
-    <string name="contributing_orgs_summary"><a href="https://www.calyxinstitute.org">Instituto Calyx</a> para o uso no <a href="https://calyxos.org">CalyxOS</a></string>
+    <string name="contributing_orgs_summary"></string>
     <string name="work_profile_help">As configurações de firewall para apps de trabalho são configuradas no app Firewall do seu perfil pessoal. Apps de trabalho têm um ícone de maleta neles.</string>
     <string name="default_settings">Configurações padrão</string>
-    <string name="contributors_summary">Veja a <a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">lista de colaboradores</a> no GitLab.</string>
+    <string name="contributors_summary"></string>
     <string name="settings">Configurações</string>
     <string name="notification_channel_alert">Alertas</string>
     <string name="monitoring_new_app_installs_title">Monitorando novos apps</string>

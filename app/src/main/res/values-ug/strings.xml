@@ -3,7 +3,7 @@
     <string name="app_name">Datura مۇداپىئە تام</string>
     <string name="app_short_name">مۇداپىئە تام</string>
     <string name="version">نەشرى: <xliff:g id="version">%1$s</xliff:g></string>
-    <string name="contributing_orgs_summary"><a href="https://calyxos.org">CalyxOS</a> دا ئىشلىتىدىغان <a href="https://www.calyxinstitute.org">Calyx ئىنستىتۇتى</a></string>
+    <string name="contributing_orgs_summary"></string>
     <string name="monitoring_new_app_installs_desc">مۇداپىئە تام يېڭى ئورنىتىلغان ئەپنى كۆزىتىۋاتىدۇ كۆڭۈلدىكى ئەھۋالدا ئىنتېرنېتنى زىيارەت قىلىشنى رەت قىلىدۇ!</string>
     <string name="internet_access_denied_title">ئىنتېرنېت زىيارىتى رەت قىلىندى!</string>
     <string name="allow">يول قوي</string>
@@ -26,7 +26,7 @@
     <string name="about">ھەققىدە</string>
     <string name="about_summary">مۇداپىئە تام ئەپى Android نىڭ ئىچكى تور API ئىشلىتىدۇ.</string>
     <string name="contributors_title">تۆھپىكارلار</string>
-    <string name="contributors_summary"><a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">تۆھپىكارلار تىزىمى</a>نى GitLab تىن كۆرۈڭ.</string>
+    <string name="contributors_summary"></string>
     <string name="contributing_orgs_title">تۆھپىكار ئورۇنلار</string>
     <string name="work_profile_help">خىزمەت ئەپنىڭ مۇداپىئە تام تەڭشىكى شەخسىي تەرجىمىھالنىڭ مۇداپىئە تام ئەپتە باشقۇرۇلىدۇ. خىزمەت ئەپنىڭ ھۆججەت سومكا سىنبەلگىسى بار.</string>
     <string name="settings">تەڭشەك</string>

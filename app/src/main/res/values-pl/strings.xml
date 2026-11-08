@@ -20,9 +20,9 @@
     <string name="version">Wersja: <xliff:g id="version">%1$s</xliff:g></string>
     <string name="contributors_title">Współtwórcy</string>
     <string name="contributing_orgs_title">Organizacje współpracujące</string>
-    <string name="contributing_orgs_summary"><a href="https://www.calyxinstitute.org">Calyx Institute</a>dla użytku w<a href="https://calyxos.org">CalyxOS</a></string>
+    <string name="contributing_orgs_summary"></string>
     <string name="work_profile_help">Ustawienia zapory sieciowej dla aplikacji służbowych są zarządzane w aplikacji Zapora sieciowa, z poziomu profilu osobistego. Aplikacje służbowe mają ikonę teczki.</string>
-    <string name="contributors_summary">Więcej informacji na temat<a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">spisu współtwórców</a>.</string>
+    <string name="contributors_summary"></string>
     <string name="notification_channel_fgs">Usługa pierwszoplanowa</string>
     <string name="notification_channel_alert">Alerty</string>
     <string name="monitoring_new_app_installs_desc">Zapora sieciowa monitoruje teraz nowe instalacje aplikacji, aby domyślnie odmawiać dostępu do internetu!</string>

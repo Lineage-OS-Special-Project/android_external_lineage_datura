@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
   SPDX-FileCopyrightText: 2014 The Android Open Source Project
-  SPDX-FileCopyrightText: 2022 The Calyx Institute
+  SPDX-FileCopyrightText: 2022 Lineage-OS-Special-Project (LOSP)
   SPDX-License-Identifier: Apache-2.0
   -->
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -9,7 +9,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="org.calyxos.datura.work.WorkFragment">
+    tools:context="org.lineageos.datura.work.WorkFragment">
 
     <ImageView
         android:id="@+id/imageView"

@@ -12,11 +12,11 @@
     <string name="app_name">Firewall Datura</string>
     <string name="allow_mobile_data">Permitir datos móviles</string>
     <string name="about_summary">Una aplicación de cortafuegos que utiliza la API de red interna de Android.</string>
-    <string name="contributing_orgs_summary"><a href="https://www.calyxinstitute.org">Instituto Calyx</a> para su uso en <a href="https://calyxos.org">CalyxOS</a></string>
+    <string name="contributing_orgs_summary"></string>
     <string name="searchbar_hint">Buscar aplicaciones</string>
     <string name="custom_settings">Ajustes personalizados</string>
     <string name="version">Versión: <xliff:g id="version">%1$s</xliff:g></string>
-    <string name="contributors_summary">Por favor, consulte GitLab para obtener una <a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD"> lista de colaboradores</a> .</string>
+    <string name="contributors_summary"></string>
     <string name="default_settings">Configuración por defecto</string>
     <string name="app_logo">Logotipo de la aplicación</string>
     <string name="no_internet">La aplicación no pide permiso para conectarse a Internet</string>

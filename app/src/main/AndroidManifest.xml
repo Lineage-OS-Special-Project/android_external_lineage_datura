@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  SPDX-FileCopyrightText: 2023 The Calyx Institute
+  SPDX-FileCopyrightText: 2023 Lineage-OS-Special-Project (LOSP)
   SPDX-License-Identifier: Apache-2.0
   -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
@@ -50,7 +50,7 @@
             android:name=".receiver.DaturaReceiver"
             android:exported="false" >
             <intent-filter>
-                <action android:name="org.calyxos.datura.ACTION_ALLOW_INTERNET_ACCESS" />
+                <action android:name="org.lineageos.datura.ACTION_ALLOW_INTERNET_ACCESS" />
             </intent-filter>
         </receiver>
     </application>

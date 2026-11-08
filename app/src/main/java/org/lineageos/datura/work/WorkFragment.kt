@@ -1,0 +1,48 @@
+/*
+ * SPDX-FileCopyrightText: 2023 Lineage-OS-Special-Project (LOSP)
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+package org.lineageos.datura.work
+
+import android.content.ComponentName
+import android.content.pm.CrossProfileApps
+import android.os.Bundle
+import android.view.View
+import androidx.fragment.app.Fragment
+import dagger.hilt.android.AndroidEntryPoint
+import org.lineageos.datura.R
+import org.lineageos.datura.databinding.FragmentWorkBinding
+
+@AndroidEntryPoint
+class WorkFragment : Fragment(R.layout.fragment_work) {
+
+    private var _binding: FragmentWorkBinding? = null
+    private val binding get() = _binding!!
+
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+        _binding = FragmentWorkBinding.bind(view)
+
+        binding.switchProfile.apply {
+            val crossProfileApps = view.context.getSystemService(CrossProfileApps::class.java)!!
+            val targetUser = crossProfileApps.targetUserProfiles.first()
+
+            text = crossProfileApps.getProfileSwitchingLabel(targetUser)
+            setOnClickListener {
+                crossProfileApps.startMainActivity(
+                    ComponentName(
+                        view.context.packageName,
+                        "${view.context.packageName}.main.MainActivity"
+                    ),
+                    targetUser
+                )
+            }
+        }
+    }
+
+    override fun onDestroyView() {
+        super.onDestroyView()
+        _binding = null
+    }
+}

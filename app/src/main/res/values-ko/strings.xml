@@ -20,8 +20,8 @@
     <string name="custom_settings">사용자 설정</string>
     <string name="version">Version: <xliff:g id="version">%1$s</xliff:g></string>
     <string name="contributors_title">기여자</string>
-    <string name="contributors_summary">기여자 목록은 GitLab에서 확인해 주십시오: <a href="https://gitlab.com/CalyxOS/platform_external_calyx_datura/-/graphs/HEAD">기여자 목록</a>.</string>
+    <string name="contributors_summary"></string>
     <string name="contributing_orgs_title">기여 단체</string>
-    <string name="contributing_orgs_summary"><a href="https://www.calyxinstitute.org">Calyx Institute</a>는 <a href="https://calyxos.org">CalyxOS</a>에서 사용됩니다</string>
+    <string name="contributing_orgs_summary"></string>
     <string name="settings">설정</string>
 </resources>
